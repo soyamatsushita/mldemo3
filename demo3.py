@@ -1,5 +1,5 @@
 import streamlit as st
-!pip install streamlit_chat
+! pip install streamlit_chat
 from streamlit_chat import message
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import (
