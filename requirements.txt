@@ -2,6 +2,4 @@ openai
 langchain
 streamlit
 streamlit-chat
-requests
 bs4
-urllib3
